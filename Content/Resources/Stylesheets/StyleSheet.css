@@ -1,0 +1,54 @@
+/*<meta />*/
+
+p.MyStyle
+{
+	font-family: Arial;
+	font-size: 12pt;
+	margin: 0px;
+}
+
+img
+{
+	border: none;
+}
+
+a.Popup
+{
+	
+}
+
+p.HeadTest
+{
+	color: #ff0000;
+}
+
+p.TOC1
+{
+	display: none;
+	mc-heading-level: 2;
+}
+
+p.TOC2
+{
+	display: none;
+	mc-heading-level: inherit;
+}
+
+@media print
+{
+	p.HeadTest
+	{
+		
+	}
+}
+
+p.thead
+{
+	
+}
+
+p.ColumnTest
+{
+	color: #9acd32;
+}
+

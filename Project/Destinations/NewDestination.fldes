@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultDestination
+  Version="1"
+  Comment="This is my publish destination"
+  Host=""
+  User="MyAccountId"
+  Password=""
+  Directory="C:\Users\darcos\Desktop\Flare Working Test\Test-Destination"
+  Port=""
+  ViewUrl="http://www.madcapsoftware.com/"
+  Type="scm"
+  ProviderType="Git"
+  Database="C:\Users\darcos\Desktop\Flare Working Test\Test-Destination\.git"
+  DatabaseRoot="C:\Users\darcos\Desktop\Flare Working Test\Test-Destination"
+  PushToRemote="true"
+  RemoteRepository="origin"></CatapultDestination>

@@ -1,0 +1,2059 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultAutoIndexSet>
+  <AutoIndex
+    Phrase="4-State Door Inputs"
+    IndexTerm="4-State Door Inputs"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Access Control Overview"
+    IndexTerm="Access Control Overview"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Access Group Advanced Settings"
+    IndexTerm="Access Group Advanced Settings"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Access Group Details"
+    IndexTerm="Access Group Details"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Access Group Information"
+    IndexTerm="Access Group Information"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Access Group Property Page"
+    IndexTerm="Access Group Property Page"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Access Groups"
+    IndexTerm="Access Groups"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Access Groups Example"
+    IndexTerm="Access Groups Example"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Access Types"
+    IndexTerm="Access Types"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Acknowledge Commands"
+    IndexTerm="Acknowledge Commands"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Actions and Set Action Alarm Map Designer"
+    IndexTerm="Actions and Set Action Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Action Property Alarm Map Property"
+    IndexTerm="Action Property Alarm Map Property"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Active Alarm Toolbar"
+    IndexTerm="Active Alarm Toolbar"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Active Alarms"
+    IndexTerm="Active Alarms"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Active Alarms Menu Alarm Viewer"
+    IndexTerm="Active Alarms Menu Alarm Viewer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Add / Delete / Copy Pages Alarm Map Designer"
+    IndexTerm="Add / Delete / Copy Pages Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Add / Delete / Update an Area"
+    IndexTerm="Add / Delete / Update an Area"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Add / Update / Delete a Controller"
+    IndexTerm="Add / Update / Delete a Controller"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Add / Update / Delete a Door"
+    IndexTerm="Add / Update / Delete a Door"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Add / Update / Delete a Holiday Profile"
+    IndexTerm="Add / Update / Delete a Holiday Profile"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Add / Update / Delete a Keyholder"
+    IndexTerm="Add / Update / Delete a Keyholder"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Add / Update / Delete an Operator"
+    IndexTerm="Add / Update / Delete an Operator"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Add / Update / Delete a Lift"
+    IndexTerm="Add / Update / Delete a Lift"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Add / Update / Delete a Time or Mode Profile"
+    IndexTerm="Add / Update / Delete a Time or Mode Profile"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Add / Update / Delete a Video Source"
+    IndexTerm="Add / Update / Delete a Video Source"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Add / Update / Delete an Access Group"
+    IndexTerm="Add / Update / Delete an Access Group"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Add / Update / Delete Channels"
+    IndexTerm="Add / Update / Delete Channels"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Add / Update / Delete Gateways"
+    IndexTerm="Add / Update / Delete Gateways"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Add Items Region Alarm Map Designer"
+    IndexTerm="Add Items Region Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Add Items Region ID Card Designer"
+    IndexTerm="Add Items Region ID Card Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Advanced Search"
+    IndexTerm="Advanced Search"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Alarm Alerts"
+    IndexTerm="Alarm Alerts"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Alarm Area / Alarm Point Icon States"
+    IndexTerm="Alarm Area / Alarm Point Icon States"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Alarm Area Properties Alarm Map Designer"
+    IndexTerm="Alarm Area Properties Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Alarm Board"
+    IndexTerm="Alarm Board"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Alarm Board Menu Alarm Viewer"
+    IndexTerm="Alarm Board Menu Alarm Viewer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Alarm Events and System Alarms"
+    IndexTerm="Alarm Events and System Alarms"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Alarm History"
+    IndexTerm="Alarm History"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Alarm History Menu Alarm Viewer"
+    IndexTerm="Alarm History Menu Alarm Viewer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Alarm History Toolbar"
+    IndexTerm="Alarm History Toolbar"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Alarm Management"
+    IndexTerm="Alarm Management"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Alarm Management Auto-Acknowledgement"
+    IndexTerm="Alarm Management Auto-Acknowledgement"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Alarm Map Designer"
+    IndexTerm="Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Alarm Map Designer Glossary"
+    IndexTerm="Alarm Map Designer Glossary"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Alarm Map Designer Interactive Map"
+    IndexTerm="Alarm Map Designer Interactive Map"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Alarm Map Designer Menus"
+    IndexTerm="Alarm Map Designer Menus"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Alarm Point Properties Alarm Map Designer"
+    IndexTerm="Alarm Point Properties Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Alarm Points Tab Alarm Map Designer"
+    IndexTerm="Alarm Points Tab Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Alarm Responses"
+    IndexTerm="Alarm Responses"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Alarm Viewer"
+    IndexTerm="Alarm Viewer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Alarm Viewer and Map Design Editor"
+    IndexTerm="Alarm Viewer and Map Design Editor"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Alarm Viewer Boards"
+    IndexTerm="Alarm Viewer Boards"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Alarm Viewer Glossary"
+    IndexTerm="Alarm Viewer Glossary"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Alarm Viewer Lists"
+    IndexTerm="Alarm Viewer Lists"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Alarm Viewer Menus"
+    IndexTerm="Alarm Viewer Menus"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Alarm Viewer Toolbar"
+    IndexTerm="Alarm Viewer Toolbar"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Alarms Auto-Acknowledgement"
+    IndexTerm="Alarms Auto-Acknowledgement"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Alarms Customising"
+    IndexTerm="Alarms Customising"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Alarms Deleting"
+    IndexTerm="Alarms Deleting"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Align to Grid Alarm Map Designer"
+    IndexTerm="Align to Grid Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Align to Grid ID Card Designer"
+    IndexTerm="Align to Grid ID Card Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Anchor and Angle Properties Alarm Map Designer"
+    IndexTerm="Anchor and Angle Properties Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Anchor and Angle Properties ID Card Designer"
+    IndexTerm="Anchor and Angle Properties ID Card Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Archives CCTV"
+    IndexTerm="Archives CCTV"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Area Alarm Definitions"
+    IndexTerm="Area Alarm Definitions"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Area Alarm Management"
+    IndexTerm="Area Alarm Management"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Area Alarm Points"
+    IndexTerm="Area Alarm Points"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Area Appearance"
+    IndexTerm="Area Appearance"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Area Details"
+    IndexTerm="Area Details"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Area List View"
+    IndexTerm="Area List View"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Area Management"
+    IndexTerm="Area Management"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Area Mode Profile Options"
+    IndexTerm="Area Mode Profile Options"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Area Outputs"
+    IndexTerm="Area Outputs"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Area Property Page"
+    IndexTerm="Area Property Page"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Area Security Level"
+    IndexTerm="Area Security Level"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Areas"
+    IndexTerm="Areas"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Areas Board"
+    IndexTerm="Areas Board"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Areas Menu Alarm Viewer"
+    IndexTerm="Areas Menu Alarm Viewer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Areas Tab Alarm Map Designer"
+    IndexTerm="Areas Tab Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Areas Example"
+    IndexTerm="Areas Example"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Aspect Lock Property Alarm Map Designer"
+    IndexTerm="Aspect Lock Property Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Aspect Lock Property ID Card Designer"
+    IndexTerm="Aspect Lock Property ID Card Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Audit Trail"
+    IndexTerm="Audit Trail"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Background Properties Alarm Map Designer"
+    IndexTerm="Background Properties Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Background Properties ID Card Designer"
+    IndexTerm="Background Properties ID Card Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Battery Health and Safety"
+    IndexTerm="Battery Health and Safety"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Border Colour Property Alarm Map Designer"
+    IndexTerm="Border Colour Property Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Border Colour Property ID Card Designer"
+    IndexTerm="Border Colour Property ID Card Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Breadcrumb Trail"
+    IndexTerm="Breadcrumb Trail"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Button Item Properties Alarm Map Designer"
+    IndexTerm="Button Item Properties Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Buttons Region"
+    IndexTerm="Buttons Region"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Cabling"
+    IndexTerm="Cabling"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Capture Source"
+    IndexTerm="Capture Source"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Card Design Overview"
+    IndexTerm="Card Design Overview"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Card Designer Interactive Map"
+    IndexTerm="Card Designer Interactive Map"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Card Designer Introduction"
+    IndexTerm="Card Designer Introduction"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Card Designer Menus"
+    IndexTerm="Card Designer Menus"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Card Face Context Menu ID Card Designer"
+    IndexTerm="Card Face Context Menu ID Card Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Card Face Region ID Card Designer"
+    IndexTerm="Card Face Region ID Card Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Card Format Org Unit Options"
+    IndexTerm="Card Format Org Unit Options"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Categories Org Unit Options"
+    IndexTerm="Categories Org Unit Options"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="CCTV Details"
+    IndexTerm="CCTV Details"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="CCTV Menu"
+    IndexTerm="CCTV Menu"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="CCTV Multiplex"
+    IndexTerm="CCTV Multiplex"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="CCTV Recordings"
+    IndexTerm="CCTV Recordings"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="CCTV Region"
+    IndexTerm="CCTV Region"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="CCTV Region Toolbar"
+    IndexTerm="CCTV Region Toolbar"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="CCTV Tab Alarm Map Designer"
+    IndexTerm="CCTV Tab Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Change Password"
+    IndexTerm="Change Password"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Channel Alarm Management"
+    IndexTerm="Channel Alarm Management"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Channel and Protocol Types"
+    IndexTerm="Channel and Protocol Types"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Channel Areas"
+    IndexTerm="Channel Areas"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Channel Details"
+    IndexTerm="Channel Details"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Channel Dialback"
+    IndexTerm="Channel Dialback"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Channel Dialup"
+    IndexTerm="Channel Dialup"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Channel Dialup Configuration"
+    IndexTerm="Channel Dialup Configuration"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Channel Layout"
+    IndexTerm="Channel Layout"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Channel PAC 500"
+    IndexTerm="Channel PAC 500"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Channel Property Page"
+    IndexTerm="Channel Property Page"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Channel Settings"
+    IndexTerm="Channel Settings"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Colour Property Alarm Map Designer"
+    IndexTerm="Colour Property Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Colour Property ID Card Designer"
+    IndexTerm="Colour Property ID Card Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Colour Selector"
+    IndexTerm="Colour Selector"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Common Icon Property ID Card Designer"
+    IndexTerm="Common Icon Property ID Card Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Comparison Operators"
+    IndexTerm="Comparison Operators"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Configure Device IP Addresses"
+    IndexTerm="Configure Device IP Addresses"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Configure Org Units"
+    IndexTerm="Configure Org Units"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Configure Peripherals"
+    IndexTerm="Configure Peripherals"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Configure Remote IP Event Link"
+    IndexTerm="Configure Remote IP Event Link"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Configure Send Email"
+    IndexTerm="Configure Send Email"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Configuring Video Sources"
+    IndexTerm="Configuring Video Sources"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Contact"
+    IndexTerm="Contact"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Context Menu Alarm Map Designer"
+    IndexTerm="Context Menu Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Context Menu Alarms"
+    IndexTerm="Context Menu Alarms"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Context Menu ID Card Designer"
+    IndexTerm="Context Menu ID Card Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Controller Alarm Management"
+    IndexTerm="Controller Alarm Management"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Controller Commands"
+    IndexTerm="Controller Commands"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Controller Details"
+    IndexTerm="Controller Details"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Controller Doors"
+    IndexTerm="Controller Doors"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Controller Inputs"
+    IndexTerm="Controller Inputs"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Controller Outputs"
+    IndexTerm="Controller Outputs"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Controller PAC 202 / 512"
+    IndexTerm="Controller PAC 202 / 512"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Controller Property Page"
+    IndexTerm="Controller Property Page"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Controller Example"
+    IndexTerm="Controller Example"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Copyright"
+    IndexTerm="Copyright"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Custom Labels Org Unit Options"
+    IndexTerm="Custom Labels Org Unit Options"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Custom Reports Adding"
+    IndexTerm="Custom Reports Adding"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Customisation Org Units"
+    IndexTerm="Customisation Org Units"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Daily Time Profile"
+    IndexTerm="Daily Time Profile"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Data Field Property ID Card Designer"
+    IndexTerm="Data Field Property ID Card Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Database Backup"
+    IndexTerm="Database Backup"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Debounce Time Examples"
+    IndexTerm="Debounce Time Examples"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Deleting Alarms"
+    IndexTerm="Deleting Alarms"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Design Editor Region Alarm Map Designer"
+    IndexTerm="Design Editor Region Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Design Menu Alarm Map Designer"
+    IndexTerm="Design Menu Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Design Menu ID Card Designer"
+    IndexTerm="Design Menu ID Card Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Design Regions"
+    IndexTerm="Design Regions"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Dialup Channel Commands"
+    IndexTerm="Dialup Channel Commands"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Direct Channel Commands"
+    IndexTerm="Direct Channel Commands"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Display Mode Property Alarm Map Designer"
+    IndexTerm="Display Mode Property Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Displaying Help Information"
+    IndexTerm="Displaying Help Information"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Docking Items Alarm Map Designer"
+    IndexTerm="Docking Items Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Docking Items ID Card Designer"
+    IndexTerm="Docking Items ID Card Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Door Access"
+    IndexTerm="Door Access"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Door Alarm Management"
+    IndexTerm="Door Alarm Management"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Door Auxiliary IO"
+    IndexTerm="Door Auxiliary IO"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Door Commands"
+    IndexTerm="Door Commands"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Door Configuration"
+    IndexTerm="Door Configuration"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Door Configuration Modes"
+    IndexTerm="Door Configuration Modes"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Door Details"
+    IndexTerm="Door Details"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Door List View"
+    IndexTerm="Door List View"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Door Mode Profile"
+    IndexTerm="Door Mode Profile"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Door Property Page"
+    IndexTerm="Door Property Page"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Door Reader"
+    IndexTerm="Door Reader"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Door Security Level"
+    IndexTerm="Door Security Level"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Doors"
+    IndexTerm="Doors"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Doors Example"
+    IndexTerm="Doors Example"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Download Database Example"
+    IndexTerm="Download Database Example"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Drawing and Placing Items Alarm Map Designer"
+    IndexTerm="Drawing and Placing Items Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Drawing and Placing Items ID Card Designer"
+    IndexTerm="Drawing and Placing Items ID Card Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Edit Menu Alarm Map Designer"
+    IndexTerm="Edit Menu Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Edit Menu ID Card Designer"
+    IndexTerm="Edit Menu ID Card Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Edit Menu PAC Access Central"
+    IndexTerm="Edit Menu PAC Access Central"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Editing Properties Alarm Map Designer"
+    IndexTerm="Editing Properties Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Editing Properties ID Card Designer"
+    IndexTerm="Editing Properties ID Card Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Encode Keycode"
+    IndexTerm="Encode Keycode"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Error Messages"
+    IndexTerm="Error Messages"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="ESD Precautions"
+    IndexTerm="ESD Precautions"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Event Archive"
+    IndexTerm="Event Archive"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Event Archive Options"
+    IndexTerm="Event Archive Options"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Event Archive Restore"
+    IndexTerm="Event Archive Restore"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Event Facilities"
+    IndexTerm="Event Facilities"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Event Log"
+    IndexTerm="Event Log"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Event Log Menu Alarm Viewer"
+    IndexTerm="Event Log Menu Alarm Viewer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Event Log Viewer"
+    IndexTerm="Event Log Viewer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Event Log Viewer Toolbar"
+    IndexTerm="Event Log Viewer Toolbar"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Event Suppression"
+    IndexTerm="Event Suppression"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Event to Action"
+    IndexTerm="Event to Action"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Event to Action Configuration"
+    IndexTerm="Event to Action Configuration"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Event to Action Details"
+    IndexTerm="Event to Action Details"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Event to Action Muster"
+    IndexTerm="Event to Action Muster"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Events Filtering"
+    IndexTerm="Events Filtering"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Events Identity Criteria"
+    IndexTerm="Events Identity Criteria"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Events Rules"
+    IndexTerm="Events Rules"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Evidence"
+    IndexTerm="Evidence"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Example of Regions Moved About the Screen"
+    IndexTerm="Example of Regions Moved About the Screen"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Examples of start and length"
+    IndexTerm="Examples of start and length"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Explorer Bar"
+    IndexTerm="Explorer Bar"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Export"
+    IndexTerm="Export"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Export a Map"
+    IndexTerm="Export a Map"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Export Diagnostics"
+    IndexTerm="Export Diagnostics"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="File and Printer Sharing"
+    IndexTerm="File and Printer Sharing"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="File Menu Alarm Viewer"
+    IndexTerm="File Menu Alarm Viewer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="File Menu Access Central"
+    IndexTerm="File Menu Access Central"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Fill Colour Property Alarm Map Designer"
+    IndexTerm="Fill Colour Property Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Fill Colour Property ID Card Designer"
+    IndexTerm="Fill Colour Property ID Card Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Fingerprint Readers"
+    IndexTerm="Fingerprint Readers"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Fingerprint Readers Adding"
+    IndexTerm="Fingerprint Readers Adding"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Fingerprint Readers Editing"
+    IndexTerm="Fingerprint Readers Editing"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Fingerprint Readers Managing"
+    IndexTerm="Fingerprint Readers Managing"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Fingerprints Managing"
+    IndexTerm="Fingerprints Managing"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Font Property Alarm Map Designer"
+    IndexTerm="Font Property Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Font Property ID Card Designer"
+    IndexTerm="Font Property ID Card Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Font Selector"
+    IndexTerm="Font Selector"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Add Items Region"
+    IndexTerm="Add Items Region"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Gateway Commands"
+    IndexTerm="Gateway Commands"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Gateway Details"
+    IndexTerm="Gateway Details"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Gateway Layout"
+    IndexTerm="Gateway Layout"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Gateway Property Page"
+    IndexTerm="Gateway Property Page"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="General Tab Alarm Map Designer"
+    IndexTerm="General Tab Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Group Context Menu Alarm Map Designer"
+    IndexTerm="Group Context Menu Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Group Context Menu ID Card Designer"
+    IndexTerm="Group Context Menu ID Card Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Group Item Properties Alarm Map Designer"
+    IndexTerm="Group Item Properties Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Group Item Properties ID Card Designer"
+    IndexTerm="Group Item Properties ID Card Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Grouping and Ungrouping Alarm Card Designer"
+    IndexTerm="Grouping and Ungrouping Alarm Card Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Grouping and Ungrouping ID Card Designer"
+    IndexTerm="Grouping and Ungrouping ID Card Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Guests"
+    IndexTerm="Guests"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Guidance on Image Formats and Sizes"
+    IndexTerm="Guidance on Image Formats and Sizes"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Hardware Board"
+    IndexTerm="Hardware Board"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Hardware Board Menu Alarm Viewer"
+    IndexTerm="Hardware Board Menu Alarm Viewer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Hardware Configuration"
+    IndexTerm="Hardware Configuration"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Hardware Installation"
+    IndexTerm="Hardware Installation"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Hardware List View"
+    IndexTerm="Hardware List View"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Hardware Menu PAC Access Central"
+    IndexTerm="Hardware Menu PAC Access Central"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Hardware Module"
+    IndexTerm="Hardware Module"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Hardware Monitor"
+    IndexTerm="Hardware Monitor"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Hardware Specifications"
+    IndexTerm="Hardware Specifications"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Hardware Tools"
+    IndexTerm="Hardware Tools"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Health and Safety"
+    IndexTerm="Health and Safety"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Height Property Alarm Map Designer"
+    IndexTerm="Height Property Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Height Property ID Card Designer"
+    IndexTerm="Height Property ID Card Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Help Menu Alarm Map Designer"
+    IndexTerm="Help Menu Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Help Menu ID Card Designer"
+    IndexTerm="Help Menu ID Card Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Help Menu PAC Access Central"
+    IndexTerm="Help Menu PAC Access Central"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Highlighting Events"
+    IndexTerm="Highlighting Events"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Holiday Profile List View"
+    IndexTerm="Holiday Profile List View"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Holiday Profile Property Page"
+    IndexTerm="Holiday Profile Property Page"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Holiday Profiles"
+    IndexTerm="Holiday Profiles"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Holiday Profiles Example"
+    IndexTerm="Holiday Profiles Example"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Holiday Time Profile"
+    IndexTerm="Holiday Time Profile"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Holopatch Property ID Card Designer"
+    IndexTerm="Holopatch Property ID Card Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="ID Card Designer"
+    IndexTerm="ID Card Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="ID Card Designer Browser"
+    IndexTerm="ID Card Designer Browser"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="If an Alarm Occurs"
+    IndexTerm="If an Alarm Occurs"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Image Capture"
+    IndexTerm="Image Capture"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Image Capture Introduction"
+    IndexTerm="Image Capture Introduction"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Image Context Menu Alarm Map Designer"
+    IndexTerm="Image Context Menu Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Image Context Menu ID Card Designer"
+    IndexTerm="Image Context Menu ID Card Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Image Item Properties Alarm Map Designer"
+    IndexTerm="Image Item Properties Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Image Item Properties ID Card Designer"
+    IndexTerm="Image Item Properties ID Card Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Image Property Alarm Map Designer"
+    IndexTerm="Image Property Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Image Property ID Card Designer"
+    IndexTerm="Image Property ID Card Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Import"
+    IndexTerm="Import"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Import Alarm Map Designer"
+    IndexTerm="Import Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Import Formats"
+    IndexTerm="Import Formats"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Incident Report Details"
+    IndexTerm="Incident Report Details"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Individual Properties Alarm Map Designer"
+    IndexTerm="Individual Properties Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Individual Properties ID Card Designer"
+    IndexTerm="Individual Properties ID Card Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Input Modes"
+    IndexTerm="Input Modes"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Input Templates"
+    IndexTerm="Input Templates"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Input Types"
+    IndexTerm="Input Types"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Inputs Tab Alarm Map Designer"
+    IndexTerm="Inputs Tab Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Interactive Map"
+    IndexTerm="Interactive Map"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Introduction to Help File"
+    IndexTerm="Introduction to Help File"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Introduction Alarm Map Designer"
+    IndexTerm="Introduction Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Introduction Alarm Viewer"
+    IndexTerm="Introduction Alarm Viewer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Introduction PAC Access Central"
+    IndexTerm="Introduction PAC Access Central"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Issuing Commands to Alarm Points"
+    IndexTerm="Issuing Commands to Alarm Points"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Issuing Commands to Areas"
+    IndexTerm="Issuing Commands to Areas"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Item Properties Alarm Map Designer"
+    IndexTerm="Item Properties Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Item Properties ID Card Designer"
+    IndexTerm="Item Properties ID Card Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Key Seek"
+    IndexTerm="Key Seek"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Keyholder Access Groups"
+    IndexTerm="Keyholder Access Groups"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Keyholder Area Usage"
+    IndexTerm="Keyholder Area Usage"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Keyholder Details"
+    IndexTerm="Keyholder Details"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Keyholder Events"
+    IndexTerm="Keyholder Events"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Keyholder Extra Details"
+    IndexTerm="Keyholder Extra Details"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Keyholder Extra Information"
+    IndexTerm="Keyholder Extra Information"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Keyholder Guest Access"
+    IndexTerm="Keyholder Guest Access"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Keyholder Keys"
+    IndexTerm="Keyholder Keys"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Keyholder List View"
+    IndexTerm="Keyholder List View"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Keyholder Notes"
+    IndexTerm="Keyholder Notes"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Keyholder Personal Access"
+    IndexTerm="Keyholder Personal Access"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Keyholder Personal Details"
+    IndexTerm="Keyholder Personal Details"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Keyholder Property Page"
+    IndexTerm="Keyholder Property Page"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Keyholder Tools"
+    IndexTerm="Keyholder Tools"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Keyholders"
+    IndexTerm="Keyholders"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Keyholders Menu PAC Access Central"
+    IndexTerm="Keyholders Menu PAC Access Central"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Keyholders Example"
+    IndexTerm="Keyholders Example"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Licence"
+    IndexTerm="Licence"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Licence Upgrading"
+    IndexTerm="Licence Upgrading"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Lift Access"
+    IndexTerm="Lift Access"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Lift Destinations"
+    IndexTerm="Lift Destinations"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Lift Details"
+    IndexTerm="Lift Details"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Lift Property Page"
+    IndexTerm="Lift Property Page"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Line Context Menu Alarm Map Designer"
+    IndexTerm="Line Context Menu Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Line Context Menu ID Card Designer"
+    IndexTerm="Line Context Menu ID Card Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Line Item Properties Alarm Map Designer"
+    IndexTerm="Line Item Properties Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Line Item Properties ID Card Designer"
+    IndexTerm="Line Item Properties ID Card Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Line Width Property Alarm Map Designer"
+    IndexTerm="Line Width Property Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Line Width Property ID Card Designer"
+    IndexTerm="Line Width Property ID Card Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="List View"
+    IndexTerm="List View"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Login"
+    IndexTerm="Login"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Logoff"
+    IndexTerm="Logoff"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Magnetic Stripe"
+    IndexTerm="Magnetic Stripe"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Magstripe Property ID Card Designer"
+    IndexTerm="Magstripe Property ID Card Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Manage Controller Firmware"
+    IndexTerm="Manage Controller Firmware"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Managing Alarms"
+    IndexTerm="Managing Alarms"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Managing Alarms Auto-Acknowledgement"
+    IndexTerm="Managing Alarms Auto-Acknowledgement"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Map Making and Editing"
+    IndexTerm="Map Making and Editing"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Map Making Hints"
+    IndexTerm="Map Making Hints"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Map Menu Alarm Viewer"
+    IndexTerm="Map Menu Alarm Viewer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Map Region"
+    IndexTerm="Map Region"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Measurement Alarm Map Designer"
+    IndexTerm="Measurement Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Measurement ID Card Designer"
+    IndexTerm="Measurement ID Card Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Menus"
+    IndexTerm="Menus"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Modem Initialsation String"
+    IndexTerm="Modem Initialsation String"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Modems"
+    IndexTerm="Modems"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Modems IP Address Format"
+    IndexTerm="Modems IP Address Format"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="More Information on Logical and Physical Controllers"
+    IndexTerm="More Information on Logical and Physical Controllers"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Moving Resizing and Deleting Alarm Map Designer"
+    IndexTerm="Moving Resizing and Deleting Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Moving Resizing and Deleting ID Card Designer"
+    IndexTerm="Moving Resizing and Deleting ID Card Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Multi-line Property Alarm Map Designer"
+    IndexTerm="Multi-line Property Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Multi-line Property ID Card Designer"
+    IndexTerm="Multi-line Property ID Card Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Multiple Item Properties Alarm Map Designer"
+    IndexTerm="Multiple Item Properties Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Multiple Item Properties ID Card Designer"
+    IndexTerm="Multiple Item Properties ID Card Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Multiple Items Context Menu Alarm Map Designer"
+    IndexTerm="Multiple Items Context Menu Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Multiple Items Context Menu ID Card Designer"
+    IndexTerm="Multiple Items Context Menu ID Card Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Multiplex Selection"
+    IndexTerm="Multiplex Selection"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Muster and Evacuation"
+    IndexTerm="Muster and Evacuation"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Muster Configuration"
+    IndexTerm="Muster Configuration"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Muster Operation"
+    IndexTerm="Muster Operation"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Muster Point"
+    IndexTerm="Muster Point"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Name Property Alarm Map Designer"
+    IndexTerm="Name Property Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Name Property ID Card Designer"
+    IndexTerm="Name Property ID Card Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="OneProx Smart Card"
+    IndexTerm="OneProx Smart Card"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Operator Alarm Viewer"
+    IndexTerm="Operator Alarm Viewer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Operator Details"
+    IndexTerm="Operator Details"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Operator List Views"
+    IndexTerm="Operator List Views"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Operator Privileges"
+    IndexTerm="Operator Privileges"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Operator Property Page"
+    IndexTerm="Operator Property Page"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Operator Login Page"
+    IndexTerm="Operator Login Page"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Operators"
+    IndexTerm="Operators"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Operators Example"
+    IndexTerm="Operators Example"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Ordering Items / Groups Alarm Map Designer"
+    IndexTerm="Ordering Items / Groups Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Ordering Items / Groups ID Card Designer"
+    IndexTerm="Ordering Items / Groups ID Card Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Org Units Alarm Viewer"
+    IndexTerm="Org Units Alarm Viewer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Org Units Customisation"
+    IndexTerm="Org Units Customisation"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Organisation Options"
+    IndexTerm="Organisation Options"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Organisation Unit Access Options Customising"
+    IndexTerm="Organisation Unit Access Options Customising"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Organisation Unit Details"
+    IndexTerm="Organisation Unit Details"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Organisation Unit List"
+    IndexTerm="Organisation Unit List"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Organisation Units"
+    IndexTerm="Organisation Units"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Orientation ID Card Designer"
+    IndexTerm="Orientation ID Card Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Other Facilities"
+    IndexTerm="Other Facilities"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Output Properties Alarm Map Designer"
+    IndexTerm="Output Properties Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Output Templates"
+    IndexTerm="Output Templates"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Output Types"
+    IndexTerm="Output Types"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Output Tabs Alarm Map Designer"
+    IndexTerm="Output Tabs Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="PAC 212 Specifications"
+    IndexTerm="PAC 212 Specifications"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="PAC 500 Series"
+    IndexTerm="PAC 500 Series"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="PAC 500 Specifications"
+    IndexTerm="PAC 500 Specifications"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="PAC 500 TCP/IP Channel Example"
+    IndexTerm="PAC 500 TCP/IP Channel Example"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="PAC 512 Specifications"
+    IndexTerm="PAC 512 Specifications"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="PAC 520 / 530 I/O Controllers"
+    IndexTerm="PAC 520 / 530 I/O Controllers"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="PAC Access Central Already Running"
+    IndexTerm="PAC Access Central Already Running"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="PAC Access Central Installation"
+    IndexTerm="PAC Access Central Installation"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="PAC Access Central Overview"
+    IndexTerm="PAC Access Central Overview"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="PAC Access Central Tools"
+    IndexTerm="PAC Access Central Tools"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="PAC Access Central Window"
+    IndexTerm="PAC Access Central Window"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Page Context Menu Alarm Map Designer"
+    IndexTerm="Page Context Menu Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Page Tabs Alarm Map Designer"
+    IndexTerm="Page Tabs Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Panning"
+    IndexTerm="Panning"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Photo Item Properties ID Card Designer"
+    IndexTerm="Photo Item Properties ID Card Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="PIN Reader Duress"
+    IndexTerm="PIN Reader Duress"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="PIN Readers"
+    IndexTerm="PIN Readers"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Preview Window"
+    IndexTerm="Preview Window"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Printing and Encoding Magnetic Stripe Cards using an Eltron P420 Card Printer"
+    IndexTerm="Printing and Encoding Magnetic Stripe Cards using an Eltron P420 Card Printer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Printing Double-sided ID Cards on a Single-sided Printer"
+    IndexTerm="Printing Double-sided ID Cards on a Single-sided Printer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Privilege Levels"
+    IndexTerm="Privilege Levels"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Privilege Templates Assigning"
+    IndexTerm="Privilege Templates Assigning"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Probe / Configure / Unconfigure a Controller"
+    IndexTerm="Probe / Configure / Unconfigure a Controller"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Probing Controller Example"
+    IndexTerm="Probing Controller Example"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Properties Region Alarm Map Designer"
+    IndexTerm="Properties Region Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Properties Region ID Card Designer"
+    IndexTerm="Properties Region ID Card Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Property Page"
+    IndexTerm="Property Page"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Proximity Reader"
+    IndexTerm="Proximity Reader"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="PTZ"
+    IndexTerm="PTZ"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Reader Mode Profile"
+    IndexTerm="Reader Mode Profile"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Reports"
+    IndexTerm="Reports"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Reports Menu PAC Access Central"
+    IndexTerm="Reports Menu PAC Access Central"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Reports Adding to Favourites"
+    IndexTerm="Reports Adding to Favourites"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Reports Exporting"
+    IndexTerm="Reports Exporting"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Reports Provided"
+    IndexTerm="Reports Provided"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Reports Queries"
+    IndexTerm="Reports Queries"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Reports Search Parameters"
+    IndexTerm="Reports Search Parameters"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Reports Using"
+    IndexTerm="Reports Using"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Reset Password"
+    IndexTerm="Reset Password"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Resolution Property Alarm Map Designer"
+    IndexTerm="Resolution Property Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Restore Database"
+    IndexTerm="Restore Database"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="RFID Devices"
+    IndexTerm="RFID Devices"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Ruler Context Menu Alarm Map Designer"
+    IndexTerm="Ruler Context Menu Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Ruler Context Menu ID Card Designer"
+    IndexTerm="Ruler Context Menu ID Card Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Selecting items on the Alarm Board and the Areas Board"
+    IndexTerm="Selecting items on the Alarm Board and the Areas Board"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Service Manager"
+    IndexTerm="Service Manager"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Shadow Properties Alarm Map Designer"
+    IndexTerm="Shadow Properties Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Shadow Properties ID Card Designer"
+    IndexTerm="Shadow Properties ID Card Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Shape Item Properties Alarm Map Designer"
+    IndexTerm="Shape Item Properties Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Shape Item Properties ID Card Designer"
+    IndexTerm="Shape Item Properties ID Card Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Shape Property Alarm Map Designer"
+    IndexTerm="Shape Property Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Shape Property ID Card Designer"
+    IndexTerm="Shape Property ID Card Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Signature Item Properties ID Card Designer"
+    IndexTerm="Signature Item Properties ID Card Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Silence Commands"
+    IndexTerm="Silence Commands"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Simple Example"
+    IndexTerm="Simple Example"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Single Items Context Menu Alarm Map Designer"
+    IndexTerm="Single Items Context Menu Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Single Items Context Menu ID Card Designer"
+    IndexTerm="Single Items Context Menu ID Card Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Smart Card Property ID Card Designer"
+    IndexTerm="Smart Card Property ID Card Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Snap Grid Colour Property Alarm Map Designer"
+    IndexTerm="Snap Grid Colour Property Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Snap Grid Colour Property ID Card Designer"
+    IndexTerm="Snap Grid Colour Property ID Card Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Snap Grid Property Alarm Map Designer"
+    IndexTerm="Snap Grid Property Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Snap Grid Property ID Card Designer"
+    IndexTerm="Snap Grid Property ID Card Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Snap Grid Size Property Alarm Map Designer"
+    IndexTerm="Snap Grid Size Property Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Snap Grid Size Property ID Card Designer"
+    IndexTerm="Snap Grid Size Property ID Card Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Software Installation"
+    IndexTerm="Software Installation"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Software Specifications"
+    IndexTerm="Software Specifications"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Specifying a Keyholder as an Operator"
+    IndexTerm="Specifying a Keyholder as an Operator"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Starting Access Central"
+    IndexTerm="Starting Access Central"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Status Bar"
+    IndexTerm="Status Bar"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Status Bar Alarm Map Designer"
+    IndexTerm="Status Bar Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Status Bar ID Card Designer"
+    IndexTerm="Status Bar ID Card Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Support Technical"
+    IndexTerm="Support Technical"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="System Access"
+    IndexTerm="System Access"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="System Design"
+    IndexTerm="System Design"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="System Plan"
+    IndexTerm="System Plan"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="System Requirements"
+    IndexTerm="System Requirements"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="System Settings"
+    IndexTerm="System Settings"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Tab Area Facilities"
+    IndexTerm="Tab Area Facilities"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="TCP/IP Channel Commands"
+    IndexTerm="TCP/IP Channel Commands"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Tear Off Confirmation Window"
+    IndexTerm="Tear Off Confirmation Window"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Tear Off Controls"
+    IndexTerm="Tear Off Controls"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Text Data Item Properties ID Card Designer"
+    IndexTerm="Text Data Item Properties ID Card Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Text Item Properties Alarm Map Designer"
+    IndexTerm="Text Item Properties Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Text Item Properties ID Card Designer"
+    IndexTerm="Text Item Properties ID Card Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Text Property Alarm Map Designer"
+    IndexTerm="Text Property Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Text Property ID Card Designer"
+    IndexTerm="Text Property ID Card Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Tilting"
+    IndexTerm="Tilting"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Time and Mode Profile List View"
+    IndexTerm="Time and Mode Profile List View"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Time and Mode Profile Property Page"
+    IndexTerm="Time and Mode Profile Property Page"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Time and Mode Profiles"
+    IndexTerm="Time and Mode Profiles"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Time or Mode Profiles Example"
+    IndexTerm="Time or Mode Profiles Example"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Toolbar"
+    IndexTerm="Toolbar"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Toolbar Facilities"
+    IndexTerm="Toolbar Facilities"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Toolbar Alarm Map Designer"
+    IndexTerm="Toolbar Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Toolbar ID Card Designer"
+    IndexTerm="Toolbar ID Card Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Tools Menu PAC Access Central"
+    IndexTerm="Tools Menu PAC Access Central"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Tooltip Property Alarm Map Designer"
+    IndexTerm="Tooltip Property Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Training"
+    IndexTerm="Training"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Transparency Property Alarm Map Designer"
+    IndexTerm="Transparency Property Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Transparency Property ID Card Designer"
+    IndexTerm="Transparency Property ID Card Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Unconfigured Controller Tasks"
+    IndexTerm="Unconfigured Controller Tasks"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Units Property Alarm Map Designer"
+    IndexTerm="Units Property Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Units Property ID Card Designer"
+    IndexTerm="Units Property ID Card Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Updates"
+    IndexTerm="Updates"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Using the Image Capture Utility"
+    IndexTerm="Using the Image Capture Utility"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Version"
+    IndexTerm="Version"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Video Source"
+    IndexTerm="Video Source"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Video Source List View"
+    IndexTerm="Video Source List View"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Video Source Properties Alarm Map Designer"
+    IndexTerm="Video Source Properties Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Video Source Property Page"
+    IndexTerm="Video Source Property Page"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Video Sources General Options"
+    IndexTerm="Video Sources General Options"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Video Sources Presets"
+    IndexTerm="Video Sources Presets"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Video Sources Presets Alarm Points"
+    IndexTerm="Video Sources Presets Alarm Points"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Video Sources Presets Event to Action"
+    IndexTerm="Video Sources Presets Event to Action"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Video Sources Presets General Options"
+    IndexTerm="Video Sources Presets General Options"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Video Sources Presets View Options"
+    IndexTerm="Video Sources Presets View Options"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="View Item Properties Alarm Map Designer"
+    IndexTerm="View Item Properties Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="View Menu Alarm Map Designer"
+    IndexTerm="View Menu Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="View Menu Alarm Viewer"
+    IndexTerm="View Menu Alarm Viewer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="View Menu ID Card Designer"
+    IndexTerm="View Menu ID Card Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="View Menu PAC Access Central"
+    IndexTerm="View Menu PAC Access Central"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Visual Notification"
+    IndexTerm="Visual Notification"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Weekly Time Profile"
+    IndexTerm="Weekly Time Profile"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Welcome Screen / System Summary"
+    IndexTerm="Welcome Screen / System Summary"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Width Property Alarm Map Designer"
+    IndexTerm="Width Property Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Width Property ID Card Designer"
+    IndexTerm="Width Property ID Card Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Wiegand (2601 format)"
+    IndexTerm="Wiegand (2601 format)"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Wiring Health and Safety"
+    IndexTerm="Wiring Health and Safety"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="X Property Alarm Map Designer"
+    IndexTerm="X Property Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="X Property ID Card Designer"
+    IndexTerm="X Property ID Card Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Y Property Alarm Map Designer"
+    IndexTerm="Y Property Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Y Property ID Card Designer"
+    IndexTerm="Y Property ID Card Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Zoom Function Alarm Map Designer"
+    IndexTerm="Zoom Function Alarm Map Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Zoom Function ID Card Designer"
+    IndexTerm="Zoom Function ID Card Designer"
+    IgnoreCase="True"></AutoIndex>
+  <AutoIndex
+    Phrase="Zooming CCTV"
+    IndexTerm="Zooming CCTV"
+    IgnoreCase="True"></AutoIndex>
+</CatapultAutoIndexSet>

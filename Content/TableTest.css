@@ -1,0 +1,420 @@
+/* MadCap Table Style: */
+
+/*<meta Version="9" />*/
+
+mcTableStyle
+{
+	name: TableTest;
+	border-collapse: collapse;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-left-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-top-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	max-id: 3;
+}
+
+mcTableColumnStyle
+{
+	span: 1;
+	separator-style: solid;
+	separator-width: 1px;
+	separator-color: #000000;
+	name: Column1;
+	id: 0;
+	cell-content-style-class: ColumnTest;
+	cell-content-style-tag: p;
+}
+
+mcTableHeadStyle
+{
+	span: 1;
+	separator-style: solid;
+	separator-width: 1px;
+	separator-color: #000000;
+	name: Header1;
+	id: 2;
+	cell-content-style-class: HeadTest;
+	cell-content-style-tag: p;
+}
+
+mcTableBodyStyle
+{
+	span: 1;
+	separator-style: solid;
+	separator-width: 1px;
+	separator-color: #000000;
+	name: Body1;
+	id: 1;
+	cell-content-style-tag: p;
+	cell-content-style-class: ColumnTest;
+}
+
+mcTableFootStyle
+{
+	span: 1;
+	separator-style: solid;
+	separator-width: 1px;
+	separator-color: #000000;
+	name: Footer1;
+	id: 3;
+}
+
+
+/* Cell Styles: */
+ 
+.TableStyle-TableTest
+{
+	border-collapse: collapse;
+	border-left-style: solid;
+	border-left-color: #000000;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-right-color: #000000;
+	border-right-width: 1px;
+	border-top-style: solid;
+	border-top-color: #000000;
+	border-top-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #000000;
+	border-bottom-width: 1px;
+	border-spacing: 0px 0px;
+}
+
+.TableStyle-TableTest-Column-Column1
+{
+	
+}
+
+.TableStyle-TableTest-Head-Header1
+{
+	
+}
+
+.TableStyle-TableTest-HeadI-Column1-Header1
+{
+	
+}
+
+.TableStyle-TableTest-HeadI-Column1-Header1 p
+{
+	
+}
+
+.TableStyle-TableTest-HeadE-Column1-Header1
+{
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+}
+
+.TableStyle-TableTest-HeadE-Column1-Header1 p
+{
+	
+}
+
+.TableStyle-TableTest-HeadF-Column1-Header1
+{
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+}
+
+.TableStyle-TableTest-HeadF-Column1-Header1 p
+{
+	
+}
+
+.TableStyle-TableTest-HeadH-Column1-Header1
+{
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+}
+
+.TableStyle-TableTest-HeadH-Column1-Header1 p
+{
+	
+}
+
+.TableStyle-TableTest-HeadD-Column1-Header1
+{
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+}
+
+.TableStyle-TableTest-HeadD-Column1-Header1 p
+{
+	
+}
+
+.TableStyle-TableTest-HeadC-Column1-Header1
+{
+	
+}
+
+.TableStyle-TableTest-HeadC-Column1-Header1 p
+{
+	
+}
+
+.TableStyle-TableTest-HeadB-Column1-Header1
+{
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+}
+
+.TableStyle-TableTest-HeadB-Column1-Header1 p
+{
+	
+}
+
+.TableStyle-TableTest-HeadA-Column1-Header1
+{
+	
+}
+
+.TableStyle-TableTest-HeadA-Column1-Header1 p
+{
+	
+}
+
+.TableStyle-TableTest-HeadG-Column1-Header1
+{
+	
+}
+
+.TableStyle-TableTest-HeadG-Column1-Header1 p
+{
+	
+}
+
+.TableStyle-TableTest-Foot-Footer1
+{
+	
+}
+
+.TableStyle-TableTest-FootI-Column1-Footer1
+{
+	
+}
+
+.TableStyle-TableTest-FootI-Column1-Footer1 p
+{
+	
+}
+
+.TableStyle-TableTest-FootE-Column1-Footer1
+{
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-top-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+}
+
+.TableStyle-TableTest-FootE-Column1-Footer1 p
+{
+	
+}
+
+.TableStyle-TableTest-FootF-Column1-Footer1
+{
+	border-top-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+}
+
+.TableStyle-TableTest-FootF-Column1-Footer1 p
+{
+	
+}
+
+.TableStyle-TableTest-FootH-Column1-Footer1
+{
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+}
+
+.TableStyle-TableTest-FootH-Column1-Footer1 p
+{
+	
+}
+
+.TableStyle-TableTest-FootD-Column1-Footer1
+{
+	border-top-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+}
+
+.TableStyle-TableTest-FootD-Column1-Footer1 p
+{
+	
+}
+
+.TableStyle-TableTest-FootC-Column1-Footer1
+{
+	
+}
+
+.TableStyle-TableTest-FootC-Column1-Footer1 p
+{
+	
+}
+
+.TableStyle-TableTest-FootB-Column1-Footer1
+{
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+}
+
+.TableStyle-TableTest-FootB-Column1-Footer1 p
+{
+	
+}
+
+.TableStyle-TableTest-FootA-Column1-Footer1
+{
+	
+}
+
+.TableStyle-TableTest-FootA-Column1-Footer1 p
+{
+	
+}
+
+.TableStyle-TableTest-FootG-Column1-Footer1
+{
+	
+}
+
+.TableStyle-TableTest-FootG-Column1-Footer1 p
+{
+	
+}
+
+.TableStyle-TableTest-Body-Body1
+{
+	
+}
+
+.TableStyle-TableTest-BodyI-Column1-Body1
+{
+	
+}
+
+.TableStyle-TableTest-BodyI-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-TableTest-BodyE-Column1-Body1
+{
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+}
+
+.TableStyle-TableTest-BodyE-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-TableTest-BodyF-Column1-Body1
+{
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+}
+
+.TableStyle-TableTest-BodyF-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-TableTest-BodyH-Column1-Body1
+{
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+}
+
+.TableStyle-TableTest-BodyH-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-TableTest-BodyD-Column1-Body1
+{
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+}
+
+.TableStyle-TableTest-BodyD-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-TableTest-BodyC-Column1-Body1
+{
+	
+}
+
+.TableStyle-TableTest-BodyC-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-TableTest-BodyB-Column1-Body1
+{
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+}
+
+.TableStyle-TableTest-BodyB-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-TableTest-BodyA-Column1-Body1
+{
+	
+}
+
+.TableStyle-TableTest-BodyA-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-TableTest-BodyG-Column1-Body1
+{
+	
+}
+
+.TableStyle-TableTest-BodyG-Column1-Body1 p
+{
+	
+}
+
+
